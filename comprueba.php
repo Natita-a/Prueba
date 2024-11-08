@@ -1,7 +1,6 @@
 <?php
 require"conecta.php";
 
-$conexion = conecta();
 
 
 if ($conexion) {
